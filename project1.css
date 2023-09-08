@@ -62,18 +62,18 @@ button{
 
 #fifthline{
     color: #FFF;
-/* text-align: center; */
+
     font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    /* line-height: 160%; */
+    
     margin-left: 28px;
 }
 
 
 .secondbox{
-    /* display: inline-flex; */
+   
     height: 460px;
     width: 475px;
     margin-top: -15px;
@@ -83,14 +83,7 @@ button{
     flex-shrink: 0;
 }
 
-/* img{
-    display: inline-flex;
-height: 575px;
-padding: 66.395px 89.61px 66.155px 91.87px;
-justify-content: center;
-align-items: center;
-flex-shrink: 0;
-} */
+
 
 .container2{
     background-color: #282828;
@@ -98,7 +91,7 @@ flex-shrink: 0;
     height: 298px;
     color: white;
     margin-top: -16px;
-    /* padding: 1px; */
+    
     display: flex;
     justify-content: space-between;
     color: #FFF;
